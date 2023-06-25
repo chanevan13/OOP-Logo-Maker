@@ -1,8 +1,7 @@
 # OOP-Logo-Maker
 
 ## Demo
-![Alt text](./assetts/images/pain.PNG)
-![Alt tex](./assetts/images/even%20more%20pain.PNG)
+![Alt tex](./assetts/images/screen-capture%20(1).webm)
 
 
 ## Table of Contents
