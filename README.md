@@ -1,7 +1,7 @@
 # OOP-Logo-Maker
 
 ## Demo
-![Alt tex](./assetts/images/screen-capture%20(1).webm)
+![Video Demo](./assetts/images/screen-capture%20(1).webm)
 
 
 ## Table of Contents
